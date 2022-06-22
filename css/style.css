@@ -1,0 +1,137 @@
+body{
+    background-color: #ebd58e;
+    margin: auto;
+    text-align: center;
+    font-size: 1.1rem;
+    box-sizing: border-box;
+    
+}
+
+
+#header{
+    /* background-color: #7a0202; */
+    /* width: 0%; */
+    height: 100px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.logo{
+    width: 120px;
+    
+}
+
+.students{
+    width: 50%;
+    border: 3px solid white;
+    border-radius: 10%;
+    margin: 4px;
+}
+
+.jago{
+    height: 430px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #c2320e;
+}
+
+
+/* a:link {
+    text-decoration: none;
+} */
+
+section {
+    background-color: #464646;
+    color: white;
+    width: 80%;
+    padding: 20px;
+    margin: 2% 10%;
+    border-radius: 20px;
+    
+}
+
+#sect-0{
+    background-color: #000000;
+    border-radius: 0;
+    padding: 20px 0;
+    margin: 2% 10%;
+    width: 83%;
+}
+
+#sect-2{
+    background-color: #8b0202;
+}
+
+.tittle {
+    text-align: center;
+}
+
+
+footer{
+    background-color: #8b0202;
+    color: white;
+    padding: 10px;
+    width: 82%;
+    margin: 10%;
+}
+
+
+#aboutus{
+    float: left;
+}
+
+
+
+
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 400px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+#sect-3{
+    overflow: auto;
+    
+}
+.gallery .image{
+    width: 78%;
+   border-radius: 10%;
+}
+.gallery .inst{
+    border-radius: 50%;
+    width: 50%;
+    
+}
